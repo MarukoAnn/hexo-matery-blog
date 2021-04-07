@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Stay",
+		"artist": "Tonya Mitchell",
+		"url": "/medias/music/Tonya Mitchell-Stay.mp3",
+		"cover": "/medias/music/avatars/daoshu.jpg"
+	},
+    {
+      "name": "Done For Me",
+      "artist": "李知恩",
+      "url": "/medias/music/Done For Me.mp3",
+      "cover": "/medias/music/avatars/daoshu.jpg"
+    },
+    {
+      "name": "夜的第七章",
+      "artist": "周杰伦",
+      "url": "/medias/music/周杰伦_潘儿-夜的第七章.mp3",
+      "cover": "/medias/music/avatars/daoshu.jpg"
+    }
+]
