@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1068c05e-6797-4351-8db5-b367b47d9efa" name="Default Changelist" comment="操作日志：&#10;     (1)、文件修改打包">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/about/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/matery/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/matery/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/contact/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/contact/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/friends/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/friends/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +54,24 @@
       <workItem from="1617778725935" duration="291000" />
       <workItem from="1617790263704" duration="147000" />
       <workItem from="1617842889796" duration="519000" />
-      <workItem from="1617870553268" duration="5253000" />
+      <workItem from="1617870553268" duration="5744000" />
+      <workItem from="1617884855299" duration="915000" />
     </task>
+    <task id="LOCAL-00001" summary="操作日志：&#10;     (1)、文件修改打包">
+      <created>1617883236258</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617883236258</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="操作日志：&#10;     (1)、文件修改打包" />
+    <option name="LAST_COMMIT_MESSAGE" value="操作日志：&#10;     (1)、文件修改打包" />
   </component>
 </project>
